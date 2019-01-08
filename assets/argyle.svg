@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="360px" viewBox="0 0 90 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="45"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="noun_Argyle_160775_000000">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g mask="url(#mask-2)" fill="#FFFFFF" id="Path">
+                <polygon points="7.76 34.14 15 45 22.24 34.14 15 23.281"></polygon>
+                <polygon points="22.24 10.86 15 0 7.76 10.86 15 21.719"></polygon>
+                <polygon points="14.479 22.5 7.24 11.64 0 22.5 7.24 33.36"></polygon>
+                <polygon points="22.76 11.64 15.52 22.5 22.76 33.36 30 22.5"></polygon>
+                <polygon points="52.24 10.86 45 0 37.76 10.86 45 21.719"></polygon>
+                <polygon points="37.24 11.64 30 22.5 37.24 33.36 44.479 22.5"></polygon>
+                <polygon points="52.76 11.64 45.52 22.5 52.76 33.36 60 22.5"></polygon>
+                <polygon points="37.76 34.14 45 45 52.24 34.14 45 23.281"></polygon>
+                <polygon points="82.24 10.86 75 0 67.76 10.86 75 21.719"></polygon>
+                <polygon points="67.76 34.14 75 45 82.24 34.14 75 23.281"></polygon>
+                <polygon points="67.24 11.64 60 22.5 67.24 33.36 74.479 22.5"></polygon>
+                <polygon points="75.52 22.5 82.76 33.36 90 22.5 82.76 11.64"></polygon>
+                <polygon points="90 0 90 0.781 82.76 11.64 82.24 10.86 89.479 0"></polygon>
+                <polygon points="0.52 0 7.76 10.86 7.24 11.64 0 0.781 0 0"></polygon>
+                <polygon points="29.479 0 22.24 10.86 22.76 11.64 30 0.781 37.24 11.64 37.76 10.86 30.52 0"></polygon>
+                <polygon points="60.52 0 67.76 10.86 67.24 11.64 60 0.781 52.76 11.64 52.24 10.86 59.479 0"></polygon>
+                <polygon points="82.76 33.36 82.24 34.14 89.479 45 82.24 55.86 82.76 56.64 90 45.781 90 45 90 44.219"></polygon>
+                <polygon points="7.76 34.14 7.24 33.36 0 44.219 0 45 0 45.781 7.24 56.64 7.76 55.86 0.52 45"></polygon>
+                <polygon points="37.76 34.14 37.24 33.36 30 44.219 22.76 33.36 22.24 34.14 29.479 45 22.24 55.86 22.76 56.64 30 45.781 37.24 56.64 37.76 55.86 30.52 45"></polygon>
+                <polygon points="67.76 34.14 67.24 33.36 60 44.219 52.76 33.36 52.24 34.14 59.479 45 52.24 55.86 52.76 56.64 60 45.781 67.24 56.64 67.76 55.86 60.52 45"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

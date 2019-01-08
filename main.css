@@ -1,7 +1,22 @@
+@font-face {
+  font-family: 'Golf';
+  /*src: url('Golf.woff2') format('woff2');*/
+  src: url('Golf.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body, h1 {
   margin: 0;
   padding: 0;
+}
+
+body {
   font-family: sans-serif;
+}
+
+p, li {
+  line-height: 1.8;
 }
 
 .banner {
@@ -9,56 +24,34 @@ body, h1 {
   height: 100vh;
   justify-content: center;
   align-items: center;
+  background: #F5645D;
+  color: #fff;
 }
 
-#particles-js {
-  height: 100%;
-  width: 100%;
+.banner__pattern {
+  background-image: url("assets/argyle.svg");
   position: absolute;
+  left: 0;
+  right: 0;
+  height: 360px;
+  top: 0;
 }
 
-.banner_title {
-  font-size: 170px;
+.banner__title {
   opacity: 0;
   animation: 0.4s cubic-bezier(0.7, 1.3, 0.75, 1) forwards animations__slideAppear;
   animation-delay: 0.15s;
-  text-shadow: 0 0 35px rgba(0, 0, 0, 0.15);
+  border: 10px solid white;
+  padding: 60px;
+  background: #F5645D;
+}
+.banner_titleText {
+  fill: white;
 }
 
-.banner.bg1 {
-  background-color: #21D4FD;
-  background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
-  color: white;
-}
-
-.banner.bg2 {
-  background-color: #8EC5FC;
-  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
-  color: white;
-}
-
-.banner.bg3 {
-  background-color: #FAACA8;
-  background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
-  color: white;
-}
-
-.banner.bg4 {
-  background-color: #8BC6EC;
-  background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
-  color: white;
-}
-
-.banner.bg5 {
-  background-color: #FF9A8B;
-  background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
-  color: white;
-}
-
-.banner.bg6 {
-  background-color: #85FFBD;
-  background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
-  color: white;
+.container {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 @keyframes animations__slideAppear {
