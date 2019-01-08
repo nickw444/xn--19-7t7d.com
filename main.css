@@ -30,6 +30,7 @@ p, li {
 
 .banner__pattern {
   background-image: url("assets/argyle.svg");
+  background-position: center;
   position: absolute;
   left: 0;
   right: 0;
